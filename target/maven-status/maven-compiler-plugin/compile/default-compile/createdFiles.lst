@@ -1,0 +1,9 @@
+com\assignment\loancalculator\domain\Borrower.class
+com\assignment\loancalculator\domain\Loan.class
+com\assignment\loancalculator\service\PaymentService.class
+com\assignment\loancalculator\service\BalanceService.class
+com\assignment\loancalculator\domain\Bank.class
+com\assignment\loancalculator\extractor\Extractor.class
+com\assignment\loancalculator\service\LoanService.class
+com\assignment\loancalculator\processor\LoanProcessor.class
+com\assignment\loancalculator\extractor\FileExtractor.class

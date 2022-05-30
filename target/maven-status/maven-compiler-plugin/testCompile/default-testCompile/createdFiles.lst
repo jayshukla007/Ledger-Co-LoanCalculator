@@ -1,0 +1,4 @@
+com\assignment\loancalculator\processor\LoanProcessorTest.class
+com\assignment\loancalculator\service\PaymentServiceTest.class
+com\assignment\loancalculator\service\BalanceServiceTest.class
+com\assignment\loancalculator\service\LoanServiceTest.class
